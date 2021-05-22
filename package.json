@@ -4,6 +4,6 @@
   "author": "Simon Josi <me@yokto.net>",
   "license": "MIT",
   "scripts": {
-    "build": "echo run build"
+    "build": "echo"
   }
 }
